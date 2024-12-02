@@ -99,7 +99,11 @@ fun main() {
     println("sexto ejercicio , el valor mayor")
     ejercicio6()
 
-  
+    println("-------------")
+
+    println("septimo ejercicio , profundidad piscina")
+    ejercicio7()
+    
 
 
 }
