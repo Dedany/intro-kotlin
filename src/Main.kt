@@ -96,8 +96,6 @@ fun main() {
 
 
 
-
-
     println("-------------")
 
     println("quinto ejercicio , porcentaje")
@@ -112,6 +110,11 @@ fun main() {
 
     println("septimo ejercicio , profundidad piscina")
     ejercicio7()
+
+    println("-------------")
+
+    println("octavo ejercicio , numero primo")
+    ejercicio8()
     
 
 
