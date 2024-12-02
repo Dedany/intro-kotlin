@@ -1,12 +1,13 @@
 //Crea una función que calcule el porcentaje de victorias de un equipo de futbol
 // según los partidos que ha jugado y los que ha ganado
 
-class ejercicio5 {
+fun ejercicio5() {
 
-        val a= 5f
-        val b= 3f
+        val partidos_jugados= 80f
+        val partidos_ganados= 40f
 
-        val division = if (b != 0f) a / b else null
+        val porcentaje_victorias =partidos_ganados/partidos_jugados *100
 
-        println(division?: "error: no se puede dividir por cero")
+
+        println(porcentaje_victorias)
 }
