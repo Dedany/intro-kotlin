@@ -85,8 +85,8 @@ fun main() {
 
     println("-------------")
 
-    println("cuarto ejercicio , division de 3:5 , da error si se divide entre 0")
-    ejercicio3()
+    println("cuarto ejercicio , divide y devuelve la parte entera de la división 0")
+    ejercicio4()
 
     
 
