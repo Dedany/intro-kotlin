@@ -88,7 +88,7 @@ fun main() {
     println("cuarto ejercicio , divide y devuelve la parte entera de la división 0")
     ejercicio4()
 
-<<<<<<< HEAD
+
     println("-------------")
 
     println("quinto ejercicio , porcentaje partidos")
@@ -96,7 +96,7 @@ fun main() {
 
 
 
-=======
+
 
     println("-------------")
 
@@ -108,8 +108,12 @@ fun main() {
     println("sexto ejercicio , el valor mayor")
     ejercicio6()
 
-  
->>>>>>> ejercicio6
+    println("-------------")
+
+    println("septimo ejercicio , profundidad piscina")
+    ejercicio7()
+    
+
 
 
 }
