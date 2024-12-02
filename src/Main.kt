@@ -1,4 +1,7 @@
 fun main() {
+
+
+
     // 1. Tipos de datos
     // Enteros
     val integer: Int = 29
@@ -58,4 +61,18 @@ fun main() {
             println("No has ingresado un día válido")
         }
     }
+
+    println("__________________________________________________________")
+
+
+    println("EJERCICIOS RESUELTOS")
+//llamamos a las funciones de los ejercicios
+
+
+    println("primer ejercicio , suma de 3+5")
+    suma2()
+
+
 }
+
+
