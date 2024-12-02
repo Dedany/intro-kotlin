@@ -4,7 +4,6 @@ fun suma2(){
     val a= 3
     val b= 5
 
-
     val suma = (a+b)
 
     println(suma)

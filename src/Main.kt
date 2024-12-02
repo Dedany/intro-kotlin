@@ -72,6 +72,11 @@ fun main() {
     println("primer ejercicio , suma de 3+5")
     suma2()
 
+    println("-------------")
+
+    println("segundo ejercicio2 , multiplicación de 3X5")
+    ejercicio2()
+
 
 }
 
