@@ -88,7 +88,18 @@ fun main() {
     println("cuarto ejercicio , divide y devuelve la parte entera de la división 0")
     ejercicio4()
 
-    
+
+    println("-------------")
+
+    println("quinto ejercicio , porcentaje")
+    ejercicio5()
+
+    println("-------------")
+
+    println("sexto ejercicio , el valor mayor")
+    ejercicio6()
+
+  
 
 
 }
