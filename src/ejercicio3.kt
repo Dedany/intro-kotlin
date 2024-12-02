@@ -6,8 +6,12 @@ fun ejercicio3() {
     val a= 5f
     val b= 3f
 
-    val division = (a/b)
+    val division = if (b != 0f) a / b else null
 
-    println(division)
+    println(division?: "error: no se puede dividir por cero")
+
+
+
+
 
 }
