@@ -5,13 +5,12 @@ package String
 
 
 fun Exercise2(): String {
-    int
-    val w1= "hola"
-    val w2= "tú"
 
-    while ()
+    val text = "hola como estás lola"
+    val replace = text.replace('l', 's')
 
-    return "$w1 $w2"
-    println(Exercise2())
+
+
+    return replace
 
 }

@@ -132,8 +132,9 @@ fun main() {
 
     println(Exercise1())
 
+    println( Exercise2())
 
-    Exercise2()
+
 }
 
 
