@@ -1,4 +1,4 @@
-//Crea una función para calcular los X primeros números primos
+package Numbers//Crea una función para calcular los X primeros números primos
 
 fun ejercicio8() {
     var contador = 0

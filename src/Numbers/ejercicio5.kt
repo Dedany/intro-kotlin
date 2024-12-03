@@ -1,4 +1,4 @@
-//Crea una función que calcule el porcentaje de victorias de un equipo de futbol
+package Numbers//Crea una función que calcule el porcentaje de victorias de un equipo de futbol
 // según los partidos que ha jugado y los que ha ganado
 
 

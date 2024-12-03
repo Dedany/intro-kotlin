@@ -1,4 +1,4 @@
-//Crea una función que dado 2 números enteros los divida y devuelva la parte entera
+package Numbers//Crea una función que dado 2 números enteros los divida y devuelva la parte entera
 // de la división. Si el divisor es 0 devuelve nulo
 
 

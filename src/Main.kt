@@ -1,3 +1,6 @@
+import Numbers.*
+import String.*
+
 fun main() {
 
 
@@ -128,6 +131,9 @@ fun main() {
 
 
     println(Exercise1())
+
+
+    Exercise2()
 }
 
 

@@ -1,4 +1,4 @@
-//Crea una función que dado 2 números enteros los multiplique y devuelva el resultado
+package Numbers//Crea una función que dado 2 números enteros los multiplique y devuelva el resultado
 
 fun ejercicio2(){
 

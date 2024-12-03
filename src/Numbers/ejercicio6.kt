@@ -1,4 +1,4 @@
-//Crea una función que dados 2 números devuelva el de mayor valor
+package Numbers//Crea una función que dados 2 números devuelva el de mayor valor
 
 fun ejercicio6() {
 

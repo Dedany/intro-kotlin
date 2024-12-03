@@ -1,4 +1,4 @@
-//Crea una función que dados 2 strings los concatene y los devuelva
+package String//Crea una función que dados 2 strings los concatene y los devuelva
 
 fun Exercise1(): String{
 
