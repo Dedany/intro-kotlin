@@ -4,7 +4,7 @@ fun main() {
 
     // 1. Tipos de datos
     // Enteros
-    val integer: Int = 29
+    val integer: Int = 291
     val long: Long = 100000000000L
 
     //Flotantes
@@ -119,7 +119,15 @@ fun main() {
     
 
 
+//EXERCISES STRING
 
+    println("-------------")
+    println("-------------")
+    println("-------------")
+    println("EXERCISES STRING")
+
+
+    println(Exercise1())
 }
 
 
