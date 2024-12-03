@@ -6,8 +6,8 @@ fun ejercicio5() {
 
 
 
-        val partidos_jugados= 80f
-        val partidos_ganados= 40f
+        val partidos_jugados= 5f
+        val partidos_ganados= 3f
 
         val porcentaje_victorias =partidos_ganados/partidos_jugados *100
 
