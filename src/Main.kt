@@ -129,12 +129,16 @@ fun main() {
     println("-------------")
     println("EXERCISES STRING")
 
-
+    println("Exercise1")
     println(Exercise1())
+    println("-------------")
 
+    println("Exercise2")
     println( Exercise2())
+    println("-------------")
 
-
+    println("Exercise3")
+println(Exercise3("hola como estas lola", 'a'))
 }
 
 
