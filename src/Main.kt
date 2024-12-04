@@ -144,6 +144,8 @@ fun main() {
 
     Exercise5()
 
+    Exercise6()
+
 }
 
 
