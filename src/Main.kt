@@ -138,7 +138,13 @@ fun main() {
     println("-------------")
 
     println("Exercise3")
-println(Exercise3("hola como estas lola", 'a'))
+println(Exercise3("ala", 'a'))
+
+
+    println("Resultado: ${Exercise4()}")
 }
+
+
+
 
 
