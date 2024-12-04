@@ -4,7 +4,6 @@ import String.*
 fun main() {
 
 
-
     // 1. Tipos de datos
     // Enteros
     val integer: Int = 291
@@ -119,7 +118,6 @@ fun main() {
 
     println("octavo ejercicio , numero primo")
     ejercicio8()
-    
 
 
 //EXERCISES STRING
@@ -134,17 +132,19 @@ fun main() {
     println("-------------")
 
     println("Exercise2")
-    println( Exercise2())
+    println(Exercise2())
     println("-------------")
 
     println("Exercise3")
-println(Exercise3("ala", 'a'))
+    println(Exercise3("ala", 'a'))
 
 
     println("Resultado: ${Exercise4()}")
+
+
+    Exercise5()
+
 }
-
-
 
 
 
