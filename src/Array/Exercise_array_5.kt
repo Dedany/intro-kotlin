@@ -1,16 +1,33 @@
-/*package Array
+package Array
+
 
 //Crea una función que dado un conjunto de String añada un nuevo
 // elemento que se le pase y devuelva el nuevo array
 
-fun numbers5(array:List<Int>,array2:List<Int>):List<Int>{
+fun exercise5() {
 
-    var word=array
-    var word2=array2
 
-    arrayfusion=array+array2
-    println("está es la fusion $arrayfusion")
+    println("introduce una palabra o frase")
+    val firstWord = readLine() ?: ""
+
+
+
+
+    println("introduce algo más")
+    val secondword2 = readLine() ?: ""
+
+    println("ahora mismo tienes : $firstWord $secondword2")
+
+    println("introduce la palabra o frase que quieras introducir")
+    val newWord = readLine() ?: ""
+
+    val array = listOf(firstWord, secondword2, newWord)
+
+    println(array.joinToString(" "))
+
 }
 
-fun main("hola","como estás")
-*/
+fun main() {
+    exercise5()
+}
+
