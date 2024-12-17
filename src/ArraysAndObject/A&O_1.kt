@@ -27,7 +27,7 @@ fun Exercise1(): Class {
         println("Apellido del alumno: $i")
         val lastname = readLine() ?: "Apellido"
 
-        println("a que clase va? matemáticas,historia o inglés $i ? ")
+        println("a que clase va? matemáticas,historia o inglés? ")
         val classAlumn = readLine()?.trim()?.lowercase(Locale.getDefault()) ?: "por definir"
 
         val alumn = Alumnos(name, lastname)
